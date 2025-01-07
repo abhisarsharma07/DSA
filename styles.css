@@ -1,0 +1,14 @@
+.photo{
+z-index: -1;
+}
+.allura-regular {
+     font-family: "Allura", cursive;
+     font-weight: 400;
+     font-style: normal;
+     z-index: 1;
+
+   }
+   .container{
+   
+     position:absolute;
+   }
